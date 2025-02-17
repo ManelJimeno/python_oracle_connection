@@ -1,0 +1,3 @@
+black
+cx_oracle
+pre-commit
